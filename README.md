@@ -1,4 +1,4 @@
-# nft
+# Circom
 
 To successfully complete the Final Challenge, you need to follow these steps:
 
